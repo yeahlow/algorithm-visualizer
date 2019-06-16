@@ -1,0 +1,25 @@
+码农有道上的推荐,原文链接如下:
+http://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247486962&idx=1&sn=9af3a9b962f215abc99f9e4089b307ea&chksm=972adc88a05d559e7bbf61553d5bcbfe94ae05207bc6bb8e4e115ebf035c215ba9f48cb3edb6&mpshare=1&scene=1&srcid=#rd
+
+简要文字内容如下:
+一门编程语言入门之后，要想进阶，必须学习算法和数据结构。
+正常的学习资料是纯文本和静态图。之前文摘菌也推荐过一个开源项目，用python实现了所有的排序算法，包括插入排序、冒泡排序、快速排序、选择排序、归并排序等。
+现在，这些会“动”啦！
+这是一个名为Algorithm Visualizer的直观的算法可视化工具，在里面你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程。
+
+目前Algorithm Visualizer 在 GitHub 上已经获得星星数量15048，fork数量为2097.
+
+GitHub地址：
+https://github.com/algorithm-visualizer/algorithm-visualizer
+演示地址：
+https://algorithm-visualizer.org/
+
+algorithm-visualizer用法
+
+下面通过depth limited Search，大概解释一下 Algorithm Visualizer 这个工具：
+
+最左边的为目录区，你可以在这里选择任何你中意的算法，中间就是算法的动态演示区域与日志输出区，其中，日志模式记录每次搜索的过程。
+最右边上面有个工具栏，在这里，你可以选择播放或者暂停，甚至还有播放速度，工具栏下面部分就是代码区域，该算法的核心代码都是在这里体现。
+
+目前支持的算法非常多包括回溯法、加密算法、动态规划、图搜索、贪婪算法、搜索算法、排序算法等。
+另外，文摘菌也多试了两个个算法，结果如下。
